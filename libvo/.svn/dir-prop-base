@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 87
+.*.sw[po]
+*~
+*.diff
+*.patch
+*.lo
+*.o
+Makefile
+Makefile.in
+.deps
+.libs
+libvo.la
+libvo.a
+
+END

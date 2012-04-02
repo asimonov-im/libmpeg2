@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 112
+.*.sw[po]
+*~
+*.diff
+*.patch
+*.lo
+*.o
+Makefile
+Makefile.in
+.deps
+.libs
+mpeg2dec
+extract_mpeg2
+corrupt_mpeg2
+seed
+
+END

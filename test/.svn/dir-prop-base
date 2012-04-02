@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 80
+.*.sw[po]
+*~
+*.diff
+*.patch
+*.lo
+*.o
+Makefile
+Makefile.in
+configure
+.deps
+.libs
+
+END
